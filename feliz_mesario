@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Mesario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f7f7f7;
+            margin: 0;
+        }
+        .message {
+            text-align: center;
+            font-size: 24px;
+            color: #ff69b4;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>¡Feliz Mesario, mi amor!</h1>
+    </div>
+</body>
+</html>
